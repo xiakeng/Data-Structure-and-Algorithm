@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CfcZ8h6IzCEe0mI6abkkMGyD82v/1XnVjkKdfXOXHWlW1U0i8YCDUcpH3czR9pyF0YmgdCT+K2w5/8th0t3Cgw==",
+  "success": true,
+  "projectFilePath": "/home/xiakeng/git/Data-Structure-and-Algorithm/TestApp/TestApp.csproj",
+  "expectedPackageFiles": [
+    "/home/xiakeng/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/xiakeng/.nuget/packages/microsoft.netcore.app.ref/6.0.9/microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "/home/xiakeng/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "/home/xiakeng/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.9/microsoft.netcore.app.host.linux-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
